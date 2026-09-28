@@ -13,7 +13,7 @@ export default function App() {
       </View>
 
       <Text style={styles.sectionTitle}>Últimos movimientos</Text>
-      <Movement title="Gym" date="Hoy" amount="-28,99 €" />
+      <Movement title="Paga" date="Hoy" amount="+20 €" />
       <Movement title="Supermercado" date="Hoy" amount="-42,80 €" />
       <Movement title="Cafetería" date="Ayer" amount="-3,20 €" />
       <Movement title="Nómina" date="20 septiembre" amount="+2.340 €" />
